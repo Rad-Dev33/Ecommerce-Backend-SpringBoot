@@ -38,4 +38,4 @@
 
 You can test all the APIs using Postman.  
 Download the collection here:  
-👉 [Ecommerce API Collection](https://github.com/Rad-Dev33/Ecommerce-Backend-SpringBoot/blob/./ApiDocs/ECommerce.postman_collection.json?raw=true)
+👉 [Ecommerce API Collection](./ApiDocs/ECommerce.postman_collection.json?raw=true)
